@@ -1,2 +1,2 @@
-# mknrls.github.io
-mknrls.com
+# MKNRLS | me + gh-pages = 🔥
+my website contents and previous versions
